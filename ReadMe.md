@@ -1,11 +1,11 @@
 
 # 😊 Olá! Eu sou a Diellen!<br><br>
 
-# ⭐️ Sobre mim:
+# 💫 Sobre mim:
 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br><br>👩🏽‍💻 Estou em transição de carreira, buscando oportunidades de estágio para aplicar meus conhecimentos, crescer profissionalmente e contribuir com novas ideias.
 
 
-# ⭐️ Contatos:
+# 🌐 Contatos:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mariadiellen/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-diellen/) 
 
 # ⭐️ Hard Skills:
