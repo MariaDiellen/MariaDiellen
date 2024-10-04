@@ -1,28 +1,6 @@
 
 # 😊 Olá! Eu sou a Diellen!
-<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="transparent" stroke="black" stroke-width="1">
-    <tspan dy="0">M</tspan>
-    <tspan dy="0" fill="red" stroke="none">a</tspan>
-    <tspan dy="0">r</tspan>
-    <tspan dy="0" fill="blue" stroke="none">i</tspan>
-    <tspan dy="0" fill="green">a</tspan>
-    <tspan dy="0"> </tspan>
-    <tspan dy="0" fill="purple">D</tspan>
-    <tspan dy="0">i</tspan>
-    <tspan dy="0">e</tspan>
-    <tspan dy="0" fill="orange">l</tspan>
-    <tspan dy="0">l</tspan>
-    <tspan dy="0" fill="pink">e</tspan>
-    <tspan dy="0" fill="blue">n</tspan>
-  </text>
-  <animate 
-    href="text"
-    attributeName="stroke-dashoffset"
-    from="500" to="0"
-    dur="3s"
-    repeatCount="indefinite" /><br><br>  
-</svg>
+
 
 # 💫 Sobre mim:
 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br><br>👩🏽‍💻 Estou em transição de carreira, buscando oportunidades de estágio para aplicar meus conhecimentos, crescer profissionalmente e contribuir com novas ideias.
