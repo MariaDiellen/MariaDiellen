@@ -1,33 +1,41 @@
 
-# 😊 Olá! Eu sou a Diellen!
+# Olá! 👋 Eu sou a Diellen
 
+Seja bem-vindo(a) ao meu GitHub!
 
-## 💫 Sobre mim:
-🎓 Estudante de Análise e Desenvolvimento de Sistemas<br><br>👩🏽‍💻 Estou em transição de carreira, buscando minha primeira oportunidade.
+Sou estudante de Análise e Desenvolvimento de Sistemas, certificada pela AWS Cloud Practitioner e apaixonada por transformar dados em informações que apoiam decisões.
 
+Atualmente estou construindo um portfólio com projetos reais de Análise de Dados, utilizando SQL, Python, PostgreSQL, Power BI e AWS.
 
-🌐 **Contatos:** 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-diellen/)
+---
 
-## ⭐ Hard Skills
+## 🚀 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- SQL
+- PostgreSQL
+- Python
+- Power BI
+- AWS
+- Git
+- GitHub
 
+---
 
+## 📂 Projeto em desenvolvimento
 
+🛒 ShopEasy Analytics
 
+Projeto completo de análise de dados de um e-commerce fictício, desenvolvido para simular desafios reais encontrados por Analistas de Dados.
 
+---
 
+## 🎯 Objetivo
 
+Busco minha primeira oportunidade como **Analista de Dados Júnior** ou **Engenheira de Dados Júnior**, contribuindo com soluções baseadas em dados, automação de processos e desenvolvimento de análises que apoiem decisões estratégicas.
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Contato
+
+- LinkedIn: [(Linkedin)](https://www.linkedin.com/in/maria-diellen/) 
+- E-mail: mariadiellen03@gmail.com
