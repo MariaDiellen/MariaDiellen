@@ -1,3 +1,5 @@
+<img width="992" height="397" alt="image" src="https://github.com/user-attachments/assets/de84b60c-c63b-4dcb-a65d-772125a4977c" />
+
 
 # Olá! 👋 Eu sou a Diellen
 
