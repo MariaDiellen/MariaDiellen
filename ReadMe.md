@@ -3,7 +3,7 @@
 
 
 ## 💫 Sobre mim:
-🎓 Estudante de Análise e Desenvolvimento de Sistemas<br><br>👩🏽‍💻 Estou em transição de carreira, buscando oportunidades de estágio para aplicar meus conhecimentos, crescer profissionalmente e contribuir com novas ideias.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br><br>👩🏽‍💻 Estou em transição de carreira, buscando minha primeira oportunidade.
 
 
 🌐 **Contatos:** 
